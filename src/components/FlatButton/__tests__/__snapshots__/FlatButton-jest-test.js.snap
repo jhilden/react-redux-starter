@@ -1,0 +1,19 @@
+exports[`test FlatButton changes the class when clicked 1`] = `
+<div
+  className="FlatButton"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Click
+</div>
+`;
+
+exports[`test FlatButton changes the class when clicked 2`] = `
+<div
+  className="FlatButton is-hovered"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Click
+</div>
+`;
